@@ -1,5 +1,5 @@
 # Linux
-1.安装防火墙
+#1.安装防火墙
     安装iptables-services ：
 2.防火墙基本操作
     查看版本： firewall-cmd --version
